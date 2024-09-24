@@ -1,7 +1,7 @@
 # NoPayBA
 Inspired by Laura Picard's [NoPayMBA](https://www.nopaymba.com), NoPayBA is designed to provide Open Source alternatives to the traditional 4-5 year degree by using Massive Open Online Courses (MOOCs). Note that we do not make any courses or curriculums, but simply find equivalents to already existing curriculums and compile them into a list for ease of use.  
 
-The chosen curriculum to emulate is currently [Queens College](https://www.qc.cuny.edu) due to its ease of use when it comes to finding coursework requirements for their majors. However, more rigorous or strenient currculums may be emulated if desired.
+TA variety of curriculums are currently being used such as  [Queens College](https://www.qc.cuny.edu) and [Berkley](https://www.berkeley.edu/) due to its ease of use when it comes to finding coursework requirements for their majors. However, more rigorous or strenient currculums may be emulated if desired.
 
 Our primary focus is currently compiling business and humanities majors as there's a plethora of existing resources for CS majors such as [OSSU](https://github.com/ossu/computer-science)
 
