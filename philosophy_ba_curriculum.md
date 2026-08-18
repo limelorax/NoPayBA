@@ -49,7 +49,7 @@ flowchart TD
 
 * **Primary Textbook**: [forall x: Calgary Edition](https://forallx.openlogicproject.org/) by P.D. Magnus & Tim Button (Free Open Logic PDF/ePub/HTML)
 * **Lecture Course**: [MIT OpenCourseWare: Logic I (24.241)](https://ocw.mit.edu/courses/24-241-logic-i-fall-2009/) (MIT Open Access Curriculum & Lecture Notes)
-* **Supplementary Textbook**: [Fundamental Methods of Logic]([https://milwaukee.pressbooks.pub/fundamentallogic/](https://open.umn.edu/opentextbooks/textbooks/fundamental-methods-of-logic)) by Matthew Knachel
+* **Supplementary Textbook**: [Fundamental Methods of Logic]([https://milwaukee.pressbooks.pub/fundamentallogic/]) by Matthew Knachel
 
 ---
 
