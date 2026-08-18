@@ -176,8 +176,8 @@ flowchart TD
 
 * **Primary Texts**:
   * George Berkeley: [*A Treatise Concerning the Principles of Human Knowledge*](https://standardebooks.org/ebooks/george-berkeley/a-treatise-concerning-the-principles-of-human-knowledge) (Standard Ebooks)
-  * Gottfried Wilhelm Leibniz: [*Monadology*](https://www.gutenberg.org/ebooks/28001) (Project Gutenberg)
-  * René Descartes: [*Discourse on the Method*](https://standardebooks.org/ebooks/rene-descartes/discourse-on-the-method/john-veitch) (Standard Ebooks)
+  * Gottfried Wilhelm Leibniz: [*Monadology*](https://www.gutenberg.org/ebooks/39441) (Project Gutenberg)
+  * René Descartes: [*Discourse on the Method*](https://www.gutenberg.org/ebooks/59) (Project Gutenberg)
 * **Dedicated Epistemology Textbook**: [*Introduction to Philosophy: Epistemology*](https://open.umn.edu/opentextbooks/textbooks/1069) edited by Brian C. Barnett & Christina Hendricks (University of Minnesota Open Textbook Library)
 * **Reference & Topic Guide**: [Stanford Encyclopedia of Philosophy: Epistemology](https://plato.stanford.edu/entries/epistemology/)
 
