@@ -85,8 +85,8 @@ flowchart TD
 *Focus: 17th–18th century European philosophy from Descartes to Hume.*
 
 * **Primary Texts**:
-  * René Descartes: [*Meditations on First Philosophy*](https://standardebooks.org/ebooks/rene-descartes/meditations-on-first-philosophy/john-veitch) (Standard Ebooks)
-  * Baruch Spinoza: [*Ethics*](https://standardebooks.org/ebooks/baruch-spinoza/ethics/r-h-m-elwes) (Standard Ebooks)
+  * René Descartes: [*Meditations on First Philosophy*](https://dn760000.eu.archive.org/0/items/RMCG0002/Descartes-Meditations-a1.pdf)(Internet Archive)
+  * Benedictus de Spinoza: [*Ethics*](https://www.gutenberg.org/ebooks/3800]) (Project Gutenberg)
   * John Locke: [*An Essay Concerning Human Understanding*](https://www.gutenberg.org/ebooks/10615) (Project Gutenberg)
   * David Hume: [*An Enquiry Concerning Human Understanding*](https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding) (Standard Ebooks)
 * **Lecture Course**: [Oxford Podcasts: General Philosophy](https://podcasts.ox.ac.uk/series/general-philosophy) (Prof. Peter Millican, Oxford University)
