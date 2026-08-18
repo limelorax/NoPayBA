@@ -73,7 +73,7 @@ flowchart TD
 
 * **Primary Texts**:
   * Augustine: [*Confessions*](https://standardebooks.org/ebooks/augustine-of-hippo/confessions/e-b-pusey) (Standard Ebooks)
-  * Anselm of Canterbury: [*Proslogion*](https://www.gutenberg.org/ebooks/2567) (Project Gutenberg)
+  * Anselm of Canterbury: [*Proslogion*](https://www.openphilosophytexts.com/anselm-proslogion) (Open Philosophy Texts)
   * Thomas Aquinas: [*Summa Theologiae (First Part)*](https://www.gutenberg.org/ebooks/17611) (Project Gutenberg)
   * Moses Maimonides: [*The Guide for the Perplexed*](https://www.gutenberg.org/ebooks/40726) (Project Gutenberg)
 * **Lecture Series**: [History of Philosophy Without Any Gaps: Medieval Europe & Islamic World](https://historyofphilosophy.net/series/islamic-world-medieval-europe)
