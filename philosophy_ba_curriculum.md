@@ -59,7 +59,7 @@ flowchart TD
 
 * **Primary Texts**:
   * Plato: [*The Apology of Socrates* & *Crito*](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett#the-apology-of-socrates) (Standard Ebooks)
-  * Plato: [*The Republic*](https://standardebooks.org/ebooks/plato/the-republic/benjamin-jowett) (Standard Ebooks)
+  * Plato: [*The Republic*](https://www.gutenberg.org/ebooks/1497) (Project Gutenberg)
   * Aristotle: [*Nicomachean Ethics*](https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters) (Standard Ebooks)
   * Lucretius: [*On the Nature of Things*](https://standardebooks.org/ebooks/lucretius/on-the-nature-of-things/william-ellery-leonard) (Standard Ebooks)
 * **Lecture Course**: [Yale Open Courses: Introduction to Political Philosophy (PLSC 114)](https://oyc.yale.edu/political-science/plsc-114) (Prof. Steven B. Smith, covers Plato & Aristotle's core texts)
