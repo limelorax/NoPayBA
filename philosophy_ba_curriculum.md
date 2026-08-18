@@ -1,5 +1,5 @@
 # NoPayBA: Bachelor of Arts in Philosophy Blueprint
-*Modelled after Queens College (CUNY) B.A. in Philosophy (36 Credits / 12 Courses)*
+*Modeled after Queens College (CUNY) B.A. in Philosophy (36 Credits / 12 Courses)*
 
 > [!NOTE]
 > All primary texts linked below are **100% free and in the public domain** (formatted beautifully by Standard Ebooks, Project Gutenberg, or Internet Archive). All secondary textbooks and lecture series are **Open Access / OER**.
