@@ -72,7 +72,7 @@ flowchart TD
 *Focus: Christian, Islamic, and Jewish scholastic traditions.*
 
 * **Primary Texts**:
-  * Augustine: [*Confessions*](https://standardebooks.org/ebooks/augustine-of-hippo/confessions/e-b-pusey) (Standard Ebooks)
+  * Augustine: [*Confessions*](https://www.gutenberg.org/ebooks/77585) (Project Gutenberg)
   * Anselm of Canterbury: [*Proslogion*](https://www.openphilosophytexts.com/anselm-proslogion) (Open Philosophy Texts)
   * Thomas Aquinas: [*Summa Theologiae (First Part)*](https://www.gutenberg.org/ebooks/17611) (Project Gutenberg)
   * Moses Maimonides: [*The Guide for the Perplexed*](https://www.gutenberg.org/ebooks/73584) (Project Gutenberg)
@@ -195,6 +195,7 @@ flowchart TD
   1. *Epistemology*: Compare Hume's problem of induction with Popper's falsificationism.
   2. *Ethics*: Evaluate Kant's Categorical Imperative against Mill's Rule Utilitarianism in modern medical dilemmas.
   3. *Political Philosophy*: Contrast Hobbes's state of nature with Rousseau's social contract regarding human liberty.
+  4. *21st Century Applciation*: How does modern technological advancement in medicine, psychology etc. prove or disprove Tabula Rasa?
 
 ---
 
