@@ -58,7 +58,7 @@ flowchart TD
 *Focus: Presocratics, Socrates, Plato, Aristotle, and Hellenistic Philosophy.*
 
 * **Primary Texts**:
-  * Plato: [*The Apology of Socrates* & *Crito*](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett#the-apology-of-socrates) (Standard Ebooks)
+  * Plato: [*The Apology* & *Crito of Socrates*](https://www.gutenberg.org/ebooks/13726) (Project Gutenberg)
   * Plato: [*The Republic*](https://www.gutenberg.org/ebooks/1497) (Project Gutenberg)
   * Aristotle: [*Nicomachean Ethics*](https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters) (Standard Ebooks)
   * Lucretius: [*On the Nature of Things*](https://standardebooks.org/ebooks/lucretius/on-the-nature-of-things/william-ellery-leonard) (Standard Ebooks)
