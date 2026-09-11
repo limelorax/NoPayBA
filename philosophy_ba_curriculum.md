@@ -195,7 +195,7 @@ flowchart TD
   1. *Epistemology*: Compare Hume's problem of induction with Popper's falsificationism.
   2. *Ethics*: Evaluate Kant's Categorical Imperative against Mill's Rule Utilitarianism in modern medical dilemmas.
   3. *Political Philosophy*: Contrast Hobbes's state of nature with Rousseau's social contract regarding human liberty.
-  4. *21st Century Applciation*: How does modern technological advancement in medicine, psychology etc. prove or disprove Tabula Rasa?
+  4. *21st Century Application*: How does modern technological advancement in medicine, psychology, etc., prove or disprove Tabula Rasa?
 
 ---
 
